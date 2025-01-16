@@ -52,4 +52,4 @@ The **Hospital Management System** is a comprehensive solution to manage hospita
 1. **Clone the Repository**:
    Clone the project repository from GitHub:
    ```bash
-   git clone https://github.com/your-username/Hospital-Management-System.git
+   git clone https://github.com/Rasmiranjanparida/Hospital-Management-System.git
